@@ -2,6 +2,8 @@
 
 > **A modern Android toolkit for Instagram flags, mapping files, and JSON data.**
 
+> 📢 **Announcement:** The source code will be published with the **next update**. Until then, keep exploring and enjoying Insta Tools! 🚀
+
 Insta Tools brings essential analysis and JSON utilities into one clean, lightweight Android application — built for developers, modders, and enthusiasts who work with structured data.
 
 ---
@@ -44,9 +46,10 @@ Download the APK, install it on your Android device, and start working with your
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/home.png" width="220">
-  <img src="assets/json-viewer.png" width="220">
-  <img src="assets/flag-analysis.png" width="220">
+  <img src="assets/home.jpg" width="120">
+  <img src="assets/direct.jpg" width="120">
+  <img src="assets/tools.jpg" width="120">
+  <img src="assets/settings.jpg" width="120">
 </p>
 
 ---
